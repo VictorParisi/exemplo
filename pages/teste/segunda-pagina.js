@@ -1,0 +1,5 @@
+export default _ => {
+    return(
+        <h1>Segunda página</h1>
+    );
+}
